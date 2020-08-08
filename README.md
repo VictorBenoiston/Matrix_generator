@@ -7,7 +7,7 @@
  <h3>Input:</h3>
  Using the first function.
  <img src="images/input.png">
- <h3> Output: 
+ <h3> Output:</h3>
  Using the second function.
  <img src="images/output.png">
 
