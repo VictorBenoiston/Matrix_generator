@@ -9,5 +9,5 @@
  <img src="images/input.png">
  <h3> Output: 
  Using the second function.
- <img src="images/putput.png">
- 
+ <img src="images/output.png">
+
