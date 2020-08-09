@@ -12,3 +12,9 @@
  Using the second function.
  <img src="images/output.png">
 
+<h3>Multiplication</h3>
+Using matrix A and B, as exemple: 
+<img src="multiplication.png">
+<h3>Determinant:</h3>
+In this case, of matrix A.
+<img src="determinant.png">
