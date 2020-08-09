@@ -7,7 +7,7 @@
  <h3>Input:</h3>
 Using the first function.
 Matrix A:                    Matrix B:
-<div style="width: 250px;">
+<div style="width: 100px;">
 <img src="images/input.png"> <img align=right src="images/input1.png">
 </div>
  <h3> Output:</h3>
