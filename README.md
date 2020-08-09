@@ -8,7 +8,7 @@
 Using the first function.
 Matrix A:                    Matrix B:
 <div style="width: 100px;">
-<img src="images/input.png"> <img align=right src="images/input1.png">
+<img src="images/input.png"> <img align=left src="images/input1.png">
 </div>
  <h3> Output:</h3>
  Using the second function.
