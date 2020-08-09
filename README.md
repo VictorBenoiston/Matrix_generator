@@ -7,7 +7,7 @@
 <h3>Input:</h3>
 Using the first function.
 <div style="display: flex">
-    <pre style="background-color: white;" class="tab">Matrix A:                        Matrix B:</pre>
+    <pre style="background-color: white;" class="tab">Matrix A:                       Matrix B:</pre>
 </div>
 
 </div>
