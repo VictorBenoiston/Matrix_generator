@@ -7,8 +7,7 @@
  <h3>Input:</h3>
 Using the first function.
 <p style="display: flex">
-Matrix A:
-Matrix B:
+Matrix A:                  Matrix B:
 </p>
 <div style="width: 100px;">
 <img src="images/input.png"> <img align=left src="images/input1.png">
