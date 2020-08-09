@@ -6,7 +6,8 @@
  Um gerador de matriz 3x3 que recebe nove inputs de números inteiros, e retorna uma lista com nove elementos, há também disponível uma função (printmatrix()), que permite a impressão na tela numa maneira mais conhecida de uma matriz 3x3. Esse é um script simples, para trabalhar com matrizes através de funções, também tenho um repositório disponível (um pouco mais avançado) para trabalhar como classe, e também permite algumas funcionalidades
  <h3>Input:</h3>
  Using the first function.
- <img src="images/input.png">
+ Matrix A:                    Matrix B:
+ <img src="images/input.png"> <img src="images/input1.png">
  <h3> Output:</h3>
  Using the second function.
  <img src="images/output.png">
