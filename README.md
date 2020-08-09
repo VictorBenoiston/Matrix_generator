@@ -9,8 +9,6 @@ Using the first function.
 <div style="display: flex">
 <pre style="background-color: white;" class="tab">Matrix A:                       Matrix B:</pre>
 </div>
-
-</div>
 <div style="width: 100px;">
 <img src="images/input.png"> <img align=left src="images/input1.png">
 </div>
